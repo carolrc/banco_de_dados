@@ -15,7 +15,7 @@ serie, personagens e casas (extraidas dos arquivos fornecidos e renomeadas).
 <strong>Perguntas</strong>
   
   
-<strong>1. Quais personagens tiveram a 1ª aparição em 2011 e a última em 2019?</strong>
+<strong>1. Quais personagens tiveram a 1ª aparição em 2011 e a última em 2019? Quantos episódios apareceram?</strong>
 
 
   
