@@ -5,7 +5,7 @@
 
 Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados. Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados.
 
-##Modelo relacional
+Modelo relacional
 
 
 
@@ -13,13 +13,13 @@ Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padroniza
 
 
 
-##<strong>Entidades</strong>
+<strong>Entidades</strong>
 
   
 As entidades utilizadas foram:
 serie, personagens e casas (extraidas dos arquivos fornecidos e renomeadas).
 
-##<strong>📑 Perguntas</strong>
+<strong>📑 Perguntas</strong>
   
   
 <strong>1. Quais personagens tiveram a 1ª aparição em 2011 e a última em 2019? Quantos episódios apareceram?</strong>
@@ -72,7 +72,7 @@ serie, personagens e casas (extraidas dos arquivos fornecidos e renomeadas).
 
 
 
-##<strong> 🔧 TECNOLOGIAS UTILIZADAS</strong>
+<strong> 🔧 TECNOLOGIAS UTILIZADAS</strong>
   
 MySQL WorkBench
   
