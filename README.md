@@ -59,6 +59,8 @@ serie, personagens e casas (extraidas dos arquivos fornecidos e renomeadas).
   
 
 
+![pergunta5](https://user-images.githubusercontent.com/113737080/223025793-89a82eba-f298-4cd9-a9c2-878acf9280b2.png)
+
 
 
 
