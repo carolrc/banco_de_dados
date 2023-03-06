@@ -47,7 +47,7 @@ serie, personagens e casas (extraidas dos arquivos fornecidos e renomeadas).
 
 
 
-<strong>4. Quais os episódios com a pior avaliação?</strong>
+<strong>4. Quais os 10 episódios com a pior avaliação?</strong>
 
 
   
@@ -72,4 +72,16 @@ SQL WORKBENCH
 EXCEL
   
 GITHUB
+
+
+## Contatos:
+
+<div>
+https://github.com/dostoievs(https://github-readme-stats.vercel.app/api?username=dostoievs)
+
+
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+</div>
 
