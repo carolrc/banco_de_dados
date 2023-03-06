@@ -1,11 +1,13 @@
-<strong>Projeto Banco de dados - Game of Thrones<strong>
+<strong>Projeto Banco de dados - Game of Thrones</strong>
 
 
 Temos um problema e precisaremos da sua ajuda para resolver!
+
 Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados. Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados.
 
 
 <strong>Entidades</strong>
+
   
 As entidades utilizadas foram:
 serie, personagens e casas (extraidas dos arquivos fornecidos e renomeadas).
