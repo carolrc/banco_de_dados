@@ -1,4 +1,4 @@
-<strong>Projeto Banco de dados - Game of Thrones</strong>
+## <strong>Projeto Banco de dados - Game of Thrones</strong>
 
 
 Temos um problema e precisaremos da sua ajuda para resolver!
@@ -76,12 +76,14 @@ GITHUB
 
 ## Contatos:
 
-<div>
-https://github.com/dostoievs(https://github-readme-stats.vercel.app/api?username=dostoievs)
 
+  
+https://github.com/dostoievs
 
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+https://github.com/carolrc
 
+https://github.com/FortunaProg
 
-</div>
+https://github.com/WashLigel
+
 
