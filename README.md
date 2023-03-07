@@ -90,22 +90,24 @@ Github
 
 
   
-<i class="fa fa-github" style="font-size:36px"></i>https://github.com/dostoievs
+<a style="display: block;" href="https://github.com/dostoievs" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a> <h2>Ama carolina</h2>
 
 <a style="display: block;" href="https://github.com/carolrc
 " target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+</a> <h2>Carolina</h2>
 
 
 <a style="display: block;" href="https://github.com/FortunaProg" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+</a> <h2>Matheus</h2>
 
 
 
 <a style="display: block;" href="https://github.com/WashLigel" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+</a> <h2>Wash Ligel</h2>
 
 
