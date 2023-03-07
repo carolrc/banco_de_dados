@@ -92,10 +92,20 @@ Github
   
 <i class="fa fa-github" style="font-size:36px"></i>https://github.com/dostoievs
 
-https://github.com/carolrc
+<a style="display: block;" href="https://github.com/carolrc
+" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-https://github.com/FortunaProg
 
-https://github.com/WashLigel
+<a style="display: block;" href="https://github.com/FortunaProg" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+
+
+<a style="display: block;" href="https://github.com/WashLigel" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 
