@@ -92,7 +92,7 @@ Github
   
 <a style="display: block;" href="https://github.com/dostoievs" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a> <h2>Ama carolina</h2>
+</a> <h2>Ana carolina</h2>
 
 <a style="display: block;" href="https://github.com/carolrc
 " target="_blank">
