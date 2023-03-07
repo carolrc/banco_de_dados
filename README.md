@@ -90,7 +90,7 @@ Github
 
 
   
-https://github.com/dostoievs
+<i class="fa fa-github" style="font-size:36px"></i>https://github.com/dostoievs
 
 https://github.com/carolrc
 
