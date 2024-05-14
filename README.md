@@ -10,7 +10,7 @@ Modelo relacional
 
 
 
-![modelagem_bancodedados](https://user-images.githubusercontent.com/113736992/223246838-750c6f5d-56b7-4a37-a5cc-9d60280cdbab.png)
+![modelagem_bancodedados](https://ibb.co/JsJG661)
 
 
 
